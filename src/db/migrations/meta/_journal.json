@@ -15,6 +15,13 @@
       "when": 1752276752404,
       "tag": "0001_petite_jocasta",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752424617271,
+      "tag": "0002_red_skrulls",
+      "breakpoints": true
     }
   ]
 }
